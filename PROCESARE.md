@@ -1,10 +1,10 @@
 # Procesearea setului de date
 Aici am detaliat pașii, precum și problemele prin care am trecut, în procesarea site-ului Wikipedia (în limba română) pentru a fi folosit ulterior în clasificator.
-Abordarea mea a fost similară cu cea a unui web-crawler, folosind strict datele din html-urile obținute, fără să folosesc metadatele site-ului^1. 
+Abordarea mea a fost similară cu cea a unui web-crawler, folosind strict datele din html-urile obținute, fără să folosesc metadatele site-ului[^1]. 
 ## Obținerea setului de date
 
-Am descărcat^2 o copie a site-ului Wikipedia în limba română, fără poze, în format .zim (un format open folosit în principal pentru arhivarea site-urilor Wikimedia).  
-După aceea, am folosit zimdump^3 pentru dezarhivarea integrală a copiei, obținând dintr-o arhivă de 2,3 GB un folder cu dimensiunea de peste 17 GB, cu peste 1 milion de fișiere/articole, toate sub același folder, pe care îl vom denumi "*data*" (dura zeci de secunde să dau ls pe folder). 
+Am descărcat[^2] o copie a site-ului Wikipedia în limba română, fără poze, în format .zim (un format open folosit în principal pentru arhivarea site-urilor Wikimedia).  
+După aceea, am folosit zimdump[^3] pentru dezarhivarea integrală a copiei, obținând dintr-o arhivă de 2,3 GB un folder cu dimensiunea de peste 17 GB, cu peste 1 milion de fișiere/articole, toate sub același folder, pe care îl vom denumi "*data*" (dura zeci de secunde să dau ls pe folder). 
 
 ## Sortarea
 
@@ -33,7 +33,7 @@ Codul relevant acestui task este în parser.py.
 
 Pentru fiecare articol, am folosit din nou librăria lxml pentru a obține un arbore al întregului document, din care am extras numai textul din elementele paragraf (<p>), ele conținând în mare majoritate textul relevant din articole.
 
-Odată obținut textul brut, l-am transformat în lowercase, am șters semnele de referință(e.g. \[2\]), semnele de punctuație, și cuvintele foarte comune (zise și stopwords) preluate de pe un repository^4 cu mici adăugiri (i.e., e.g., și). Tot ce a mai rămas este să normalizez spațiile dintre cuvinte (să fie exact un spațiu între ele), și să suprascriu articolul original.
+Odată obținut textul brut, l-am transformat în lowercase, am șters semnele de referință(e.g. \[2\]), semnele de punctuație, și cuvintele foarte comune (zise și stopwords) preluate de pe un repository[^4] cu mici adăugiri (i.e., e.g., și). Tot ce a mai rămas este să normalizez spațiile dintre cuvinte (să fie exact un spațiu între ele), și să suprascriu articolul original.
 
 În câteva cazuri, parsorul prelua și câteva elemente din cutia de navigare de la finalul paginii (pentru că foloseau și tagul <p> loc să folosească doar <a>), așa că a trebuit să exclud elementele care aveau ca ascendent un element cu clasa "navbox".
 
@@ -45,7 +45,7 @@ Mi s-a părut foarte fascinant că, deși sunt mai multe la număr, articolele c
 ## Separarea datelor
 
 Pentru a separa datele de antrenament de cele pentru testarea modelului, am folosit scriptul separator.py, care mută articolele în directoare ascunse cu același nume (the UNIX way, adăugăm un punct la începutul denumirii). Am ales în mod arbitrar ponderea de 90% pentru setul de antrenament, cu restul pentru setul de teste.
-^1: https://dumps.wikimedia.org/rowiki/20251120/
-^2: https://en.wikipedia.org/wiki/Wikipedia:Database_download#Other_Wikipedia_editions
-^3: https://github.com/openzim/zim-tools
-^4: https://github.com/stopwords-iso/stopwords-ro
+[^1]: https://dumps.wikimedia.org/rowiki/20251120/
+[^2]: https://en.wikipedia.org/wiki/Wikipedia:Database_download#Other_Wikipedia_editions
+[^3]: https://github.com/openzim/zim-tools
+[^4]: https://github.com/stopwords-iso/stopwords-ro
