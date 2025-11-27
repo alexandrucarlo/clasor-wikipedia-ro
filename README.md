@@ -14,4 +14,6 @@ Probabil cea mai mare îmbunătățire pe care aș putea să o fac este să tran
 
 ## Concluzii
 
-Pentru mine, acest proiect a fost oarecum o introducere în domeniul de "data science", fiind prima dată când am încercat să lucrez cu un set mediu/larg de date cu scopul de a încerca să obțin niște informații dintr-un set. Pasul de procesare al setului de date m-a făcut să realizez importanța foarte mare pe care o are fiecare pas în crearea unui set, în timp ce îi consideram pur și simplu arbitrari în trecut. Nivelul mare de atenție cerut în realizarea și analizarea setului de date m-a făcut să am un nivel superior de respect față de cei care lucrează în astfel de domenii.
+Pentru mine, acest proiect a fost oarecum o introducere în domeniul de "data science", fiind prima dată când am încercat să lucrez cu un set mediu/larg de date cu scopul de a încerca să obțin niște informații dintr-un set. Pasul de procesare al setului de date m-a făcut să realizez importanța foarte mare pe care o are fiecare pas în crearea unui set, în timp ce îi consideram pur și simplu arbitrari în trecut. 
+
+De asemenea, nivelul mare de atenție cerut în realizarea și analizarea setului de date m-a făcut să am un nivel superior de respect față de cei care lucrează în astfel de domenii și să valorific mai mult importanța acestei materii în viața de zi cu zi.
