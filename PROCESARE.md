@@ -31,7 +31,7 @@ Așadar, în urma sortării am obținut în total 516.220 de articole, dintre ca
 
 Codul relevant acestui task este în parser.py.
 
-Pentru fiecare articol, am folosit din nou librăria lxml pentru a obține un arbore al întregului document, din care am extras numai textul din elementele paragraf (<p>), ele conținând în mare majoritate textul relevant din articole.
+Pentru fiecare articol, am folosit din nou librăria lxml pentru a obține un arbore al întregului document, din care am extras numai textul din elementele paragraf (\<p\>), ele conținând în mare majoritate textul relevant din articole.
 
 Odată obținut textul brut, l-am transformat în lowercase, am șters semnele de referință(e.g. \[2\]), semnele de punctuație, și cuvintele foarte comune (zise și stopwords) preluate de pe un repository[^4] cu mici adăugiri (i.e., e.g., și). Tot ce a mai rămas este să normalizez spațiile dintre cuvinte (să fie exact un spațiu între ele), și să suprascriu articolul original.
 
