@@ -1,0 +1,147 @@
+Antrenare
+Dupa episcop avem: 1113 articole și 47868 cuvinte
+Dupa gimnastica avem: 31 articole și 1251 cuvinte
+Dupa revista avem: 345 articole și 15410 cuvinte
+Dupa arta avem: 2727 articole și 85387 cuvinte
+Dupa tren avem: 611 articole și 15466 cuvinte
+Dupa ciclism avem: 70 articole și 2456 cuvinte
+Dupa tramvai avem: 72 articole și 6316 cuvinte
+Dupa papa avem: 240 articole și 11329 cuvinte
+Dupa stema avem: 18 articole și 1472 cuvinte
+Dupa automobil avem: 720 articole și 17477 cuvinte
+Dupa alegeri avem: 477 articole și 26929 cuvinte
+Dupa ziare avem: 335 articole și 15781 cuvinte
+Dupa curse avem: 1057 articole și 16763 cuvinte
+Dupa org avem: 745 articole și 42098 cuvinte
+Dupa stiinteexacte avem: 2915 articole și 48596 cuvinte
+Dupa informatica avem: 1108 articole și 31146 cuvinte
+Dupa scrima avem: 405 articole și 6936 cuvinte
+Dupa tenis avem: 564 articole și 11967 cuvinte
+Dupa radio avem: 79 articole și 5610 cuvinte
+Dupa wrestling avem: 194 articole și 12779 cuvinte
+Dupa atletica avem: 150 articole și 1178 cuvinte
+Dupa transportrutier avem: 205 articole și 9968 cuvinte
+Dupa joc avem: 124 articole și 6541 cuvinte
+Dupa monument avem: 4311 articole și 64573 cuvinte
+Dupa cinema avem: 15009 articole și 175552 cuvinte
+Dupa autor avem: 8807 articole și 202756 cuvinte
+Dupa nava avem: 36 articole și 3743 cuvinte
+Dupa drept avem: 94 articole și 11028 cuvinte
+Dupa avion avem: 7039 articole și 52079 cuvinte
+Dupa jocvideo avem: 879 articole și 41566 cuvinte
+Dupa harta avem: 181293 articole și 526283 cuvinte
+Dupa cautare avem: 51 articole și 10323 cuvinte
+Dupa intreprindere avem: 3374 articole și 81110 cuvinte
+Dupa arheologie avem: 105 articole și 11157 cuvinte
+Dupa metrou avem: 40 articole și 5908 cuvinte
+Dupa cladire avem: 1540 articole și 45497 cuvinte
+Dupa baschet avem: 83 articole și 3644 cuvinte
+Dupa curling avem: 7 articole și 1005 cuvinte
+Dupa proiect avem: 16 articole și 4571 cuvinte
+Dupa biologie avem: 1396 articole și 47221 cuvinte
+Dupa astronomie avem: 22860 articole și 80435 cuvinte
+Dupa volei avem: 43 articole și 1154 cuvinte
+Dupa mitologie avem: 367 articole și 20689 cuvinte
+Dupa mancare avem: 214 articole și 10977 cuvinte
+Dupa unesco avem: 162 articole și 20741 cuvinte
+Dupa handbal avem: 955 articole și 14522 cuvinte
+Dupa regalitate avem: 4136 articole și 95526 cuvinte
+Dupa fotbal avem: 9378 articole și 66768 cuvinte
+Dupa biografii avem: 24479 articole și 313080 cuvinte
+Dupa teatru avem: 719 articole și 35888 cuvinte
+Dupa box avem: 85 articole și 3561 cuvinte
+Dupa religie avem: 26 articole și 6169 cuvinte
+Dupa egiptul-antic avem: 27 articole și 3197 cuvinte
+Dupa strada avem: 442 articole și 13074 cuvinte
+Dupa sport avem: 841 articole și 17672 cuvinte
+Dupa balet avem: 17 articole și 2894 cuvinte
+Dupa polo avem: 5 articole și 219 cuvinte
+Dupa tv avem: 2978 articole și 68700 cuvinte
+Dupa OZN avem: 12 articole și 1781 cuvinte
+Dupa militar avem: 3816 articole și 130051 cuvinte
+Dupa muzica avem: 9662 articole și 153315 cuvinte
+Dupa cosmos avem: 124 articole și 10159 cuvinte
+Dupa rugby avem: 99 articole și 4402 cuvinte
+Dupa hockey avem: 26 articole și 781 cuvinte
+Dupa format avem: 29 articole și 3440 cuvinte
+Dupa limba avem: 1315 articole și 57867 cuvinte
+Dupa bd avem: 46 articole și 8725 cuvinte
+Dupa planor avem: 10 articole și 908 cuvinte
+Dupa bautura avem: 102 articole și 9361 cuvinte
+Dupa stea avem: 343 articole și 7727 cuvinte
+Dupa numar avem: 271 articole și 2281 cuvinte
+Total:  321974 articole
+Total:  2894804 cuvinte distincte
+Total:  941534 cuvinte distincte după reducție
+Testare model:
+Dupa .nava acuratetea modelului este: 0.0
+Dupa .numar acuratetea modelului este: 0.0
+Dupa .box acuratetea modelului este: 0.0
+Dupa .jocvideo acuratetea modelului este: 0.28776978417266186
+Dupa .joc acuratetea modelului este: 0.2631578947368421
+Dupa .transportrutier acuratetea modelului este: 0.22988505747126436
+Dupa .org acuratetea modelului este: 0.15625
+Dupa .ziare acuratetea modelului este: 0.13651877133105803
+Dupa .cladire acuratetea modelului este: 0.09267241379310345
+Dupa .militar acuratetea modelului este: 0.41713641488162345
+Dupa .strada acuratetea modelului este: 0.3974358974358974
+Dupa .cautare acuratetea modelului este: 0.3953241232731137
+Dupa .curling acuratetea modelului este: 0.3953241232731137
+Dupa .format acuratetea modelului este: 0.3940677966101695
+Dupa .planor acuratetea modelului este: 0.39365079365079364
+Dupa .intreprindere acuratetea modelului este: 0.4086429112964367
+Dupa .hockey acuratetea modelului este: 0.4080242240726722
+Dupa .atletica acuratetea modelului este: 0.4031413612565445
+Dupa .drept acuratetea modelului este: 0.40014847809948034
+Dupa .rugby acuratetea modelului este: 0.39690721649484534
+Dupa .avion acuratetea modelului este: 0.5920560747663551
+Dupa .fotbal acuratetea modelului este: 0.7158126375353663
+Dupa .egiptul-antic acuratetea modelului este: 0.7153628652214892
+Dupa .arta acuratetea modelului este: 0.6737446197991391
+Dupa .polo acuratetea modelului este: 0.6737446197991391
+Dupa .alegeri acuratetea modelului este: 0.663839411931015
+Dupa .arheologie acuratetea modelului este: 0.6617812852311161
+Dupa .mitologie acuratetea modelului este: 0.6544035674470458
+Dupa .cinema acuratetea modelului este: 0.7254043767840153
+Dupa .wrestling acuratetea modelului este: 0.7240333586050038
+Dupa .OZN acuratetea modelului este: 0.7238961531173015
+Dupa .curse acuratetea modelului este: 0.7189469781238413
+Dupa .stiinteexacte acuratetea modelului este: 0.7323771208675879
+Dupa .muzica acuratetea modelului este: 0.7491899852724595
+Dupa .teatru acuratetea modelului este: 0.7405735914980347
+Dupa .sport acuratetea modelului este: 0.7378626831370296
+Dupa .religie acuratetea modelului este: 0.7376507754164273
+Dupa .episcop acuratetea modelului este: 0.7251305206716523
+Dupa .bd acuratetea modelului este: 0.7246192893401016
+Dupa .biologie acuratetea modelului este: 0.7179522561059749
+Dupa .bautura acuratetea modelului este: 0.7168641499035547
+Dupa .proiect acuratetea modelului este: 0.7167653946824631
+Dupa .baschet acuratetea modelului este: 0.7158778205833792
+Dupa .monument acuratetea modelului este: 0.7093068284497225
+Dupa .unesco acuratetea modelului este: 0.707662588538313
+Dupa .handbal acuratetea modelului este: 0.6991487739804345
+Dupa .tren acuratetea modelului este: 0.6934996220710506
+Dupa .astronomie acuratetea modelului este: 0.7663453278610289
+Dupa .stea acuratetea modelului este: 0.7653827864954826
+Dupa .tenis acuratetea modelului este: 0.7636380826321263
+Dupa .cosmos acuratetea modelului este: 0.7627006610009442
+Dupa .stema acuratetea modelului este: 0.7625566465256798
+Dupa .radio acuratetea modelului este: 0.7619811320754717
+Dupa .revista acuratetea modelului este: 0.7592592592592593
+Dupa .tramvai acuratetea modelului este: 0.7587599812118365
+Dupa .papa acuratetea modelului este: 0.7569112548027364
+Dupa .limba acuratetea modelului este: 0.7472496995470094
+Dupa .ciclism acuratetea modelului este: 0.7467664449371767
+Dupa .tv acuratetea modelului este: 0.7285278823740362
+Dupa .scrima acuratetea modelului este: 0.7256897937315832
+Dupa .harta acuratetea modelului este: 0.8943909131516814
+Dupa .balet acuratetea modelului este: 0.8943623775643684
+Dupa .autor acuratetea modelului este: 0.8829244144673741
+Dupa .mancare acuratetea modelului este: 0.8823583972297798
+Dupa .regalitate acuratetea modelului este: 0.8822058958022132
+Dupa .metrou acuratetea modelului este: 0.8820983326729052
+Dupa .gimnastica acuratetea modelului este: 0.8820176775373362
+Dupa .automobil acuratetea modelului este: 0.8806591869622062
+Dupa .biografii acuratetea modelului este: 0.8814030554931476
+Dupa .informatica acuratetea modelului este: 0.88052391480787
+Dupa .volei acuratetea modelului este: 0.8804253532950889
