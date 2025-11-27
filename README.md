@@ -1,7 +1,7 @@
 # clasor-wiki
 Proiect pentru cursul de Probabilități și Statistică cu scopul de a clasifica articolele Wikipedia (în limba română), pe baza metadatelor deja existente, folosind un model Bayes naiv multinomial scris în Python.
 ## Procesearea setului de date
-Vezi PROCESARE.md.
+Vezi [PROCESARE.md](PROCESARE.md).
 
 Setul poate fi descărcat din acest repository.
 ## Definirea și învățarea modelului
